@@ -1,16 +1,13 @@
-# color_application
+# Color Application
 
-A new Flutter project.
+A simple Flutter application that displays a greeting text and changes the background color on tap.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays the text **"Hello there"** in the center of the screen.
+- Changes the background color to a randomly generated RGB color on tap.
 
-A few resources to get you started if this is your first Flutter project:
+## Main Branch
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The main development branch for this project is **`developer`**.  
+Please make sure to create new feature branches based on `developer` and merge them back after review.
